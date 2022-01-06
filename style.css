@@ -9,6 +9,7 @@ h1 {
 }
 section {
   display: flex;
+  margin-bottom: 150px;
 }
 .halfwidth {
   width: 50%;
@@ -24,4 +25,9 @@ section {
   border-radius: 5px;
   font-size: small;
   font-weight: 700;
+}
+.DevWoutlimits {
+  background-image: url(mission-2022-main/mission-2022-main/images/shapes/one.png);
+  background-repeat: no-repeat;
+  background-position: left;
 }
