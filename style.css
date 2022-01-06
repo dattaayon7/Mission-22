@@ -54,5 +54,11 @@ h2 {
   background-position: center;
 }
 .halfwidth2 {
-    width: 50%;
-    padding-right: 10%;
+  width: 50%;
+  padding-right: 10%;
+}
+
+.halfwidth3 {
+  width: 50%;
+  padding-left: 10%;
+}
