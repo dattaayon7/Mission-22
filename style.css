@@ -31,3 +31,28 @@ section {
   background-repeat: no-repeat;
   background-position: left;
 }
+h2 {
+  padding-left: 45%;
+  font-size: 30px;
+}
+.blue-color {
+  color: navy;
+}
+.bgimg1 {
+  background-image: url(mission-2022-main/mission-2022-main/images/illustrators/mission.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bgimg2 {
+  background-image: url(mission-2022-main/mission-2022-main/images/illustrators/vision.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bgimg3 {
+  background-image: url(mission-2022-main/mission-2022-main/images/illustrators/goal.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.halfwidth2 {
+    width: 50%;
+    padding-right: 10%;
