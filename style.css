@@ -1,0 +1,27 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 45px;
+}
+.brown-color {
+  color: brown;
+}
+section {
+  display: flex;
+}
+.halfwidth {
+  width: 50%;
+  padding-left: 10%;
+}
+.halfwidthimg {
+  width: 80%;
+}
+.linkopen {
+  text-decoration: none;
+  background-color: tomato;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-size: small;
+  font-weight: 700;
+}
