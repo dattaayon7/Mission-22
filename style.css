@@ -42,17 +42,21 @@ h2 {
   background-image: url(mission-2022-main/mission-2022-main/images/illustrators/mission.png);
   background-repeat: no-repeat;
   background-position: center;
+  text-align: center;
 }
 .bgimg2 {
   background-image: url(mission-2022-main/mission-2022-main/images/illustrators/vision.png);
   background-repeat: no-repeat;
   background-position: center;
+  text-align: center;
 }
 .bgimg3 {
   background-image: url(mission-2022-main/mission-2022-main/images/illustrators/goal.png);
   background-repeat: no-repeat;
   background-position: center;
+  text-align: center;
 }
+
 .halfwidth2 {
   width: 50%;
   padding-right: 10%;
@@ -60,5 +64,15 @@ h2 {
 
 .halfwidth3 {
   width: 50%;
-  padding-left: 10%;
+  padding-left: 3%;
+}
+h2 {
+  padding-right: 10%;
+}
+footer p {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+h3 {
+  text-align: center;
 }
